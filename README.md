@@ -1,16 +1,26 @@
 # Portfolio
 
+## Hello :hand\_splayed:, I'm Rufis aka ThinX7pert
+
 > **I use** [**Pop!\_OS**](https://pop.system76.com/) **btw** :nerd:
 
-I'm not a nerd of course :eyes:, &#x20;
+First-year cybersecurity master's student at [**ESGI**](https://www.esgi.fr/programmes/securite-informatique.html). I'm currently a Level 1 SOC (Security Operations Center) Analyst at [**ITrust**](https://www.itrust.fr/)**,** I monitor various information systems to detect any suspicious or malicious activity.
 
 ***
 
-### About Me
+## About Me
 
 ***
 
-### :globe\_with\_meridians: Links
+
+
+## :100: Goals
+
+***
+
+
+
+## :globe\_with\_meridians: Links
 
 ***
 
