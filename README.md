@@ -10,21 +10,20 @@ First-year cybersecurity master's student at [**ESGI**](https://www.esgi.fr/prog
 
 ## :pencil2: About Me
 
+:musical\_note: :  Music producer - I try to produce prod in my spare time.
 
+:boxing\_glove: : Boxing - Shadow-boxing to stay in shape.
 
-:musical\_note:
-
-:boxing\_glove:
-
-:joystick:
+:joystick: : CTF enthusiast - I find joy in solving challenges and enhancing my skills.
 
 ***
 
 ## :100: Goals
 
-:first\_place:Certifications :&#x20;
+:first\_place:Certifications :
 
 * ## [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
+* ## [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
 
 ***
 
