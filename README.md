@@ -8,21 +8,27 @@ First-year cybersecurity master's student at [**ESGI**](https://www.esgi.fr/prog
 
 ***
 
-## About Me
+## :pencil2: About Me
+
+
+
+:musical\_note:
+
+:boxing\_glove:
+
+:joystick:
 
 ***
-
-
 
 ## :100: Goals
 
+:first\_place:Certifications :&#x20;
+
+* ## [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
+
 ***
-
-
 
 ## :globe\_with\_meridians: Links
-
-***
 
 [**LinkedIn**](https://www.linkedin.com/in/rufis-mosengo/)
 
