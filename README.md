@@ -1,6 +1,6 @@
 # Portfolio
 
-> I use [Pop!\_OS](https://pop.system76.com/) btw :nerd:
+> **I use** [**Pop!\_OS**](https://pop.system76.com/) **btw** :nerd:
 
 I'm not a nerd of course :eyes:, &#x20;
 
@@ -26,3 +26,4 @@ I'm not a nerd of course :eyes:, &#x20;
 
 ***
 
+> #### Maybe wars aren’t meant to be won, maybe they’re meant to be continuous. <a href="#maybe-wars-aren-t-meant-to-be-won-maybe-they-re-meant-to-be-continuous" id="maybe-wars-aren-t-meant-to-be-won-maybe-they-re-meant-to-be-continuous"></a>
