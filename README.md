@@ -24,6 +24,7 @@ First-year cybersecurity master's student at [**ESGI**](https://www.esgi.fr/prog
 
 * ## [HTB Certified Penetration Testing Specialist (HTB CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)
 * ## [HTB Certified Bug Bounty Hunter (HTB CBBH)](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
+* ## [Blue Team Level 1](https://www.securityblue.team/why-btl1/)
 
 ***
 
@@ -35,7 +36,7 @@ First-year cybersecurity master's student at [**ESGI**](https://www.esgi.fr/prog
 
 [**RootMe**](https://www.root-me.org/ThinX7pert?lang=fr)
 
-**Hack The Box**
+**Hack The Box (soon)**
 
 [**LetsDefend**](https://app.letsdefend.io/user/thinx7pert)
 
