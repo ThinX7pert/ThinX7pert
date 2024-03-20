@@ -7,3 +7,4 @@
     * [Pentesting Basics](htb-penetration-tester/getting-started/pentesting-basics/README.md)
       * [Common Terms](htb-penetration-tester/getting-started/pentesting-basics/common-terms.md)
       * [Basic Tools](htb-penetration-tester/getting-started/pentesting-basics/basic-tools.md)
+      * [Service Scanning](htb-penetration-tester/getting-started/pentesting-basics/service-scanning.md)
