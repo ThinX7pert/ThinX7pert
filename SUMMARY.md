@@ -2,4 +2,5 @@
 
 * [Portfolio](README.md)
 * [HTB - Penetration Tester](htb-penetration-tester/README.md)
-  * [Page 1](htb-penetration-tester/page-1.md)
+  * [Penetration Testing Process](htb-penetration-tester/penetration-testing-process.md)
+  * [Getting Started](htb-penetration-tester/getting-started.md)
