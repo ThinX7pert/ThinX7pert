@@ -8,3 +8,4 @@
       * [Common Terms](htb-penetration-tester/2.-getting-started/pentesting-basics/common-terms.md)
       * [Basic Tools](htb-penetration-tester/2.-getting-started/pentesting-basics/basic-tools.md)
       * [Service Scanning](htb-penetration-tester/2.-getting-started/pentesting-basics/service-scanning.md)
+      * [Web Enumeration](htb-penetration-tester/2.-getting-started/pentesting-basics/web-enumeration.md)
