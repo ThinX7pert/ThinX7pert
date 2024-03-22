@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Portfolio](README.md)
+* [🤓 Portfolio](README.md)
 * [🕷️ HTB - Penetration Tester](htb-penetration-tester/README.md)
   * [1. Penetration Testing Process](htb-penetration-tester/1.-penetration-testing-process.md)
   * [2. Getting Started](htb-penetration-tester/2.-getting-started/README.md)
