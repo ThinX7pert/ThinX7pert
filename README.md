@@ -1,6 +1,6 @@
 # 🤓 Portfolio
 
-## Hello :hand\_splayed: , I'm Rufis aka ThinX7pert
+## Hello :hand\_splayed:, I'm Rufis aka ThinX7pert
 
 > **I use** [**Pop!\_OS**](https://pop.system76.com/) **btw** :melting\_face:
 
