@@ -10,3 +10,4 @@
       * [Service Scanning](htb-penetration-tester/2.-getting-started/pentesting-basics/service-scanning.md)
       * [Web Enumeration](htb-penetration-tester/2.-getting-started/pentesting-basics/web-enumeration.md)
       * [Public Exploits](htb-penetration-tester/2.-getting-started/pentesting-basics/public-exploits.md)
+* [Page 1](page-1.md)
